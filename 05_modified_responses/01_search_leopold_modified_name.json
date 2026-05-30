@@ -1,0 +1,19 @@
+{
+	"groups": [
+		{
+			"cats": [
+				{
+					"description": "Описание подменено через Fiddler AutoResponder. На сервере это значение не сохранялось.",
+					"dislikes": 0,
+					"gender": "male",
+					"id": 30,
+					"likes": 25,
+					"name": "Леопольдик",
+					"tags": ""
+				}
+			],
+			"count": 1,
+			"title": "Л"
+		}
+	]
+}
